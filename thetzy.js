@@ -41,12 +41,12 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '༺~ •乂• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Ｉｎｆｉｎｉｔｙ - Ｃｒａｓｈ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = '𝑪𝒙𝒙𝒛𝒚 𝑴𝒅〽️' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = '༺~ •乂• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281649357107'] 
-global.premium = ['6281649357107']
+global.owner = ['6285763376203'] 
+global.premium = ['6285763376203']
 global.packname = '༺~ •乂• ~༻'
 global.ownerr = ['༺~ •乂• ~༻']
 global.author = '༺~ •乂• ~༻'
